@@ -1,0 +1,25 @@
+{
+  "name": "social-blog",
+  "version": "1.0.0",
+  "description": "A social blog for everyone to write ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphamandla-s/Social-blog.git"
+  },
+  "author": "Sphamandla Mdletshe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphamandla-s/Social-blog/issues"
+  },
+  "homepage": "https://github.com/sphamandla-s/Social-blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1"
+  }
+}
